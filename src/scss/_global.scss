@@ -1,0 +1,15 @@
+html {
+  font-family: roboto;
+}
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+  &_title {
+    color: blueviolet;
+  }
+  &_text {
+    font-size: 18px;
+    background-image: url("../img/banner.png");
+  }
+}
