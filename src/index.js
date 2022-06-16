@@ -1,6 +1,6 @@
-import "./scss/style.scss";
+import './scss/style.scss';
 
 const number = 101;
-const string = "Долматинец";
+const string = 'Долмат';
 
 console.log(number + string);
