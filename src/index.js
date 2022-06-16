@@ -1,6 +1,5 @@
 import './scss/style.scss';
 
-const number = 101;
-const string = 'Долмат';
+const container = document.querySelector('.container__title');
 
-console.log(number + string);
+container.textContent = 'WebPack Template';

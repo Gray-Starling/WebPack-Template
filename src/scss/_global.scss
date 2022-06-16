@@ -1,15 +1,16 @@
-html {
-  font-family: roboto;
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: #fff;
+  text-align: center;
 }
 
 .container {
-  margin: 0 auto;
-  text-align: center;
-  &_title {
-    color: blueviolet;
-  }
-  &_text {
-    font-size: 18px;
-    background-image: url("../img/banner.png");
+  margin: 40px auto 0 auto;
+  width: 90vw;
+  height: 90vh;
+  &__title {
+    font-size: 22px;
   }
 }
