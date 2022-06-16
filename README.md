@@ -1,12 +1,23 @@
-##Конфигурация
-#webpack.config.js
+# WebPack Template
 
-- HtmlWebpackPlugin - title and inject
+_By Sergey Skvorcov_
 
-//-настройка babel
+### About
 
-- настройка eslint
-- настройка husky
-  -настройка gitworkflows
-- настройка storybook
-- настройка webpack-bundle-analyzer
+Готовая сборка WebPack для работы с нативным js, разметкой и стилями.
+
+### Install
+
+`git clone https://github.com/Gray-Starling/WebPack-Template.git`
+
+`cd WebPack-Template`
+
+`npm install`
+
+### Comands
+
+- `npm run start` - Запуск проекта локально в браузере
+
+- `npm run dev` - Сборка проекта в режиме разработки
+
+- `npm run build` - Сборка проекта в режиме продакшн

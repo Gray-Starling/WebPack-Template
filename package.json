@@ -8,8 +8,7 @@
     "dev": "cross-env NODE_ENV=development webpack --mode development",
     "watch": "cross-env NODE_ENV=development  webpack --mode development --watch",
     "start": "cross-env NODE_ENV=development  webpack serve --mode development --open",
-    "lint": "eslint  src/**/*.{ts,tsx,js,jsx} --fix --color",
-    "prepare": "husky install"
+    "lint": "eslint  src/**/*.{ts,tsx,js,jsx} --fix --color"
   },
   "keywords": [],
   "author": "Scvorcov Sergey <skvorcovsa90@gmail.com>",
