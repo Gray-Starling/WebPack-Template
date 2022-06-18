@@ -1,12 +1,10 @@
-# WebPack Template
+# 👉 WebPack Template 💼
 
 _By Sergey Skvorcov_
 
-### About
-
 Готовая сборка WebPack для работы с нативным js, разметкой и стилями.
 
-### Install
+### ✨ Install
 
 `git clone https://github.com/Gray-Starling/WebPack-Template.git`
 
@@ -14,7 +12,7 @@ _By Sergey Skvorcov_
 
 `npm install`
 
-### Comands
+### ⭐ Comands
 
 - `npm run start` - Запуск проекта локально в браузере
 
@@ -22,52 +20,11 @@ _By Sergey Skvorcov_
 
 - `npm run build` - Сборка проекта в режиме продакшн
 
-### Особенности:
+### 🔶 languages and Tehnology
 
-scss но как угодно
-eslint по airbnb
-prettier - некоторые настройки
-
-### Лоадеры:
-
-html-loader Экспортирует HTML как строку. HTML сворачивается, когда этого требует компилятор.
-sass-loader
-postcss-loader
-css-loader
-style-loader, а при сборки в продакшн MiniCssExtractPlugin.loader
-babel-loader - для js/jsx/ts/tsx
-
-### плагины:
-
-HtmlWebpackPlugin
-MiniCssExtractPlugin
-в продакшн BundleAnalyzerPlugin
-
-### git/ git actions/ husky
-
-Настроен хаски при комите или пуше прогоняет через линтер
-
-### Template
-
-Шаблон имеет 3 основных файла (index.html, index.js, index.scss)
-index.html содержит основную статическую разметку
-index.scss не имеет стилей как таковых, а лишь импортирует нормалайз, шрифт, миксины и изменяемые переменные
-index.js сердце сборки. весь код должен начинаться здесь
-
-#### scss folder
-
-global.scss - имеет глобальные стили для всего вашего проекта
-normilize.scss - тут понятно
-scss-fonts - настройки шрифтов
-scss-mixins - миксины для проекта
-scss-variables - изменяемые переменные
-
-#### assets folder
-
-##### img
-
-Содержит все изображения используемые в разработке
-
-#### fonts
-
-Набор шрифтов подключенных к проекту
+<a href="https://developer.mozilla.org/ru/docs/Web/HTML" target=_blank>![html](https://img.shields.io/badge/html-fff?style=for-the-badge&logo=html5)</a>
+<a href="https://sass-scss.ru/" target=_blank>![Sass](https://img.shields.io/badge/sass-fff?style=for-the-badge&logo=sass)</a>
+<a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target=_blank>![js](https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript)</a>
+<a href="https://eslint.org/" target=_blank>![eslint](https://img.shields.io/badge/Eslint-fff?style=for-the-badge&logo=eslint)</a>
+<a href="https://prettier.io/" target=_blank>![prettier](https://img.shields.io/badge/prettier-fff?style=for-the-badge&logo=prettier)</a>
+<a href="https://babeljs.io/" target=_blank>![babel](https://img.shields.io/badge/babel-fff?style=for-the-badge&logo=babel)</a>
