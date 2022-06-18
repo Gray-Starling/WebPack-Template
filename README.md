@@ -1,10 +1,10 @@
-# 👉 WebPack Template 💼
+# WebPack Template
 
 _By Sergey Skvorcov_
 
 Готовая сборка WebPack для работы с нативным js, разметкой и стилями.
 
-### ✨ Install
+### 🟨 Install
 
 `git clone https://github.com/Gray-Starling/WebPack-Template.git`
 
@@ -12,7 +12,7 @@ _By Sergey Skvorcov_
 
 `npm install`
 
-### ⭐ Comands
+### 🟨 Comands
 
 - `npm run start` - Запуск проекта локально в браузере
 
@@ -20,7 +20,7 @@ _By Sergey Skvorcov_
 
 - `npm run build` - Сборка проекта в режиме продакшн
 
-### 🔶 languages and Tehnology
+### 🟨 languages and Tehnology
 
 <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target=_blank>![html](https://img.shields.io/badge/html-fff?style=for-the-badge&logo=html5)</a>
 <a href="https://sass-scss.ru/" target=_blank>![Sass](https://img.shields.io/badge/sass-fff?style=for-the-badge&logo=sass)</a>
