@@ -1,6 +1,5 @@
-# WebPack Template
-
-_By Sergey Skvorcov_
+<div style="display: flex;  justify-content: space-between; align-items: center;"><span style="font-size:34px;  font-weight: 600;">WebPack Template</span><span>_By Sergey Skvorcov_</span></div>
+<hr>
 
 Готовая сборка WebPack для работы с нативным js, разметкой и стилями.
 
