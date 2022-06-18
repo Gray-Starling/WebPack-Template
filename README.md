@@ -1,6 +1,6 @@
 # WebPack Template
 
-<p align="right">_By Sergey Skvorcov_</p>
+<p align="right">Sergey Skvorcov</p>
 
 Готовая сборка WebPack для работы с нативным js, разметкой и стилями.
 
